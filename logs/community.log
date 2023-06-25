@@ -1,0 +1,9 @@
+2023-06-25T15:59:36.673+08:00  INFO 67478 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 18.0.1.1 with PID 67478 (started by huangyuwen in /Users/huangyuwen/Code/community)
+2023-06-25T15:59:36.673+08:00 DEBUG 67478 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-25T15:59:36.674+08:00  INFO 67478 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2023-06-25T15:59:37.329+08:00  INFO 67478 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-06-25T15:59:37.422+08:00  INFO 67478 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 0.903 seconds (process running for 1.317)
+2023-06-25T15:59:37.849+08:00 DEBUG 67478 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2023-06-25T15:59:37.849+08:00  INFO 67478 --- [main] com.nowcoder.community.LoggerTests       : info log
+2023-06-25T15:59:37.849+08:00  WARN 67478 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2023-06-25T15:59:37.849+08:00 ERROR 67478 --- [main] com.nowcoder.community.LoggerTests       : error log

@@ -1,0 +1,5 @@
+2023-06-25 16:07:00,835 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:51] Starting LoggerTests using Java 18.0.1.1 with PID 67611 (started by huangyuwen in /Users/huangyuwen/Code/community)
+2023-06-25 16:07:00,837 INFO [main] c.n.c.LoggerTests [SpringApplication.java:633] No active profile set, falling back to 1 default profile: "default"
+2023-06-25 16:07:01,503 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-06-25 16:07:01,600 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:57] Started LoggerTests in 0.966 seconds (process running for 1.386)
+2023-06-25 16:07:02,041 INFO [main] c.n.c.LoggerTests [LoggerTests.java:20] info log
